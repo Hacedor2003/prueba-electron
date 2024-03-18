@@ -1,0 +1,24 @@
+{
+  "name": "prueba-electron",
+  "version": "1.0.0",
+  "description": "Prueba de Electron",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hacedor2003/prueba-forge.git"
+  },
+  "keywords": [
+    "Electron",
+    "Hello",
+    "World"
+  ],
+  "author": "Hacedor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Hacedor2003/prueba-forge/issues"
+  },
+  "homepage": "https://github.com/Hacedor2003/prueba-forge#readme"
+}
