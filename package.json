@@ -4,11 +4,11 @@
   "description": "Prueba de Electron",
   "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "electron ."
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Hacedor2003/prueba-forge.git"
+    "url": "git+https://github.com/Hacedor2003/prueba-electron.git"
   },
   "keywords": [
     "Electron",
@@ -18,7 +18,10 @@
   "author": "Hacedor",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Hacedor2003/prueba-forge/issues"
+    "url": "https://github.com/Hacedor2003/prueba-electron/issues"
   },
-  "homepage": "https://github.com/Hacedor2003/prueba-forge#readme"
+  "homepage": "https://github.com/Hacedor2003/prueba-electron#readme",
+  "devDependencies": {
+    "electron": "^29.1.4"
+  }
 }
